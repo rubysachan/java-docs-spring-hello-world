@@ -1,0 +1,5 @@
+{
+    "name": "Azure_OpenAI_Value",
+    "value": "Azure_OpenAI_Key",
+    "from_secret": true
+}
